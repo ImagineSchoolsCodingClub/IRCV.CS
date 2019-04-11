@@ -1671,11 +1671,6 @@ header {
   	cursor: pointer;
 }
 
-#back-to-top:after {
-    content: "\f106";
-    font-family: 'FontAwesome';
-}
-
 #back-to-top:hover {
     opacity: 0.8;
 }
@@ -1764,4 +1759,9 @@ header {
     -webkit-transform:scale(0);
             transform:scale(0);
   }
+}
+
+
+.team-social a{
+    font-size: 2.5rem;
 }

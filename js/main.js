@@ -1,11 +1,17 @@
 (function($) {
 	"use strict"
 
+	setTimeout(function(){
+		console.log("TIMEOUT");
+		$("#preloader").delay(600).fadeOut();
+	},100);
+
 	///////////////////////////
 	// Preloader
-	$(window).on('load', function() {
-		$("#preloader").delay(600).fadeOut();
-	});
+	// $(window).on('load', function() {
+	// 	console.log("LOAD");
+	// 	$("#preloader").delay(600).fadeOut();
+	// });
 
 	///////////////////////////
 	// Scrollspy

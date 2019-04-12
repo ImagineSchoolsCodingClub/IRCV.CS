@@ -781,6 +781,7 @@ header {
     color: #FFF;
     line-height: 50px;
     text-align: center;
+    font-size: 2.5rem;
 }
 
 .work:hover .work-link {

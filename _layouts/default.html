@@ -1,6 +1,117 @@
 <!DOCTYPE html>
-<html>
-  <body>
-     {{ content }}
-  </body>
+<html lang="en">
+
+
+{% include header.html %}
+
+<body>
+	<!-- Header -->
+	<header id="home">
+		<!-- Background Image -->
+		<div class="bg-img" style="background-image: url('./img/DJI_0154-compressor.jpg');">
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
+
+		<!-- Nav -->
+		<nav id="nav" class="navbar nav-transparent">
+			<div class="container">
+					{% include navbar.html %}
+			</div>
+		</nav>
+		<!-- /Nav -->
+
+		<!-- home wrapper -->
+		<div class="home-wrapper">
+				{% include home.html %}
+			{{ content }}
+		</div>
+		<!-- /home wrapper -->
+
+	</header>
+	<!-- /Header -->
+
+	<!-- About -->
+	<div id="about" class="section md-padding">
+			{% include about.html %}
+		{{content}}
+
+	</div>
+	<!-- /About -->
+
+<!-- Team -->
+<div id="team" class="section md-padding">
+
+	<!-- Container -->
+	<div class="container">
+			{% include team.html %}
+
+		{{content}}		
+
+	</div>
+</div>
+<!-- /Team -->
+
+<!-- Numbers -->
+<div id="numbers" class="section sm-padding">
+		{% include numbers.html %}
+	{{content}}
+
+</div>
+<!-- /Numbers -->
+
+
+<!-- Portfolio -->
+<div id="portfolio" class="section md-padding bg-grey">
+		{% include work.html %}
+	{{content}}
+
+</div>
+<!-- /Portfolio -->
+
+
+	<!-- Contact -->
+	<div id="contact" class="section md-padding">
+			{% include contact.html %}
+		{{content}}
+
+	</div>
+	<!-- /Contact -->
+
+
+	<!-- Footer -->
+	<footer id="footer" class="sm-padding">
+
+		<div class="bg-img" style="background-image: url('./img/DJI_0139-compressor.jpg');">
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
+		{{content}}
+		{% include footer.html %}
+
+	</footer>
+	<!-- /Footer -->
+
+	<!-- Back to top -->
+	<div id="back-to-top">
+		<i class="fas fa-chevron-up"></i>
+	</div>
+	<!-- /Back to top -->
+
+	<!-- Preloader -->
+	<div id="preloader">
+		<div class="preloader">
+			<span></span>
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+	<!-- /Preloader -->
+
+	<!-- jQuery Plugins -->
+	{% include jqplugins.html %}
+
+</body>
+
 </html>

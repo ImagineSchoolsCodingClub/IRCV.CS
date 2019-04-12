@@ -1,0 +1,29 @@
+[
+    {
+      "firstName": "Kathy",
+      "lastName": "Carrera",
+      "socialMedias":[
+        {
+          "platform": "Scratch",
+          "class": "laptop-code",
+          "link": "https://scratch.mit.edu/"
+        }
+      ],
+      "imagePath": "./img/KathyC.JPG",
+      "title": "Scratch Developer"
+    },
+    {
+        "firstName": "Iory",
+        "lastName": "Libatique",
+        "socialMedias":[
+          {
+            "platform": "Scratch",
+            "class": "laptop-code",
+            "link": "https://scratch.mit.edu/"
+          }
+        ],
+        "imagePath": "./img/IoryL.JPG",
+        "title": "Scratch Developer"
+      }
+  ]
+  

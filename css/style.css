@@ -705,7 +705,6 @@ header {
 .work:hover .overlay {
     -webkit-transition-delay: 0s;
     transition-delay: 0s;
-    opacity: 0.8;
 }
 
 .work .work-content {
@@ -781,6 +780,7 @@ header {
     color: #FFF;
     line-height: 50px;
     text-align: center;
+    font-size: 2.5rem;
 }
 
 .work:hover .work-link {

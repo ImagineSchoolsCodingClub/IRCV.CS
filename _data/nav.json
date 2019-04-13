@@ -1,0 +1,19 @@
+{
+    "main": [{
+            "href": "#home",
+            "text": "Home"
+        }, {
+            "href": "#about",
+            "text": "About"
+        }, {
+            "href": "#team",
+            "text": "Team"
+        },{
+            "href": "#portfolio",
+            "text": "Portfolio"
+        }, {
+            "href": "#contact",
+            "text": "Contact"
+        }
+    ]
+}

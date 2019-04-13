@@ -1,0 +1,43 @@
+
+<!-- Portfolio -->
+<div id="portfolio" class="section md-padding bg-grey">
+        
+                <!-- Container -->
+                <div class="container">
+        
+                    <!-- Row -->
+                    <div class="row">
+        
+                        <!-- Section header -->
+                        <div class="section-header text-center">
+                            <h2 class="title">Featured Projects</h2>
+                        </div>
+                        <!-- /Section header -->
+        
+                        <!-- Work -->
+                        {% for proj in site.data.portfolio %}
+                        <div class="col-md-4 col-xs-6 work">
+                            <img class="img-responsive" src="{{proj.imagePath}}" alt="">
+                            <div class="overlay"></div>
+                            <div class="work-content">
+                                <span>{{proj.category}}</span>
+                                <h3>{{proj.description}}</h3>
+                                <div class="work-link">
+                                    {% if proj.link != "" %}
+                                    <a target="_blank" rel="noopener" href="{{proj.link}}"><i class="fas fa-laptop-code"></i></a>
+                                    {% endif %}
+                                    <a class="lightbox" href="{{item.imagePath}}"><i class="fas fa-expand"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                        <!-- /Work -->
+        
+                    </div>
+                    <!-- /Row -->
+        
+                </div>
+                <!-- /Container -->
+        
+            </div>
+            <!-- /portfolio -->

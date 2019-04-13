@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class1.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class2.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class3.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class4.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class5.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class6.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class7.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class8.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class9.jpg",
+        "description": "Working on Code.org",
+        "link": ""
+    }
+]

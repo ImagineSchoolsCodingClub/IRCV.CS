@@ -3,8 +3,7 @@
       "firstName": "Kathy",
       "lastName": "Carrera",
       "projects":[
-         "https://scratch.mit.edu/",
-          "https://scratch.mit.edu/"
+         "https://scratch.mit.edu/"
       ],
       "imagePath": "./img/team/KathyC.JPG",
       "title": "Scratch Developer"

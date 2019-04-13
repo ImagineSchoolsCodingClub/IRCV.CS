@@ -1011,7 +1011,7 @@ header {
 .team {
     position: relative;
     background-color: #F4F4F4;
-    padding: 20px 20px;
+    padding: 15px 15px;
     margin: 15px 0px;
 }
 
@@ -1090,7 +1090,11 @@ header {
 }
 
 .team .team-social {
-    position: absolute;
+    /* position: absolute;
+    top: 0;
+    right: 0; */
+    position: relative;
+    left: 100%;
     top: 0;
     right: 0;
     opacity: 0;

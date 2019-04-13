@@ -16,31 +16,41 @@
                             <!-- /Section-header -->
             
                             <!-- contact -->
-                            <div class="col-sm-4">
+                            <div class="col-sm-4 col-md-3">
                                 <div class="contact">
                                     <i class="fa fa-phone"></i>
                                     <h3>Phone</h3>
-                                    <p>760-391-9200</p>
+                                    <a href="tel:+17603919200">760-391-9200</a>
                                 </div>
                             </div>
                             <!-- /contact -->
             
                             <!-- contact -->
-                            <div class="col-sm-4">
+                            <!-- <div class="col-sm-4">
                                 <div class="contact">
                                     <i class="fa fa-envelope"></i>
                                     <h3>Email</h3>
-                                    <p>Isaias.Dominguez@ImagineSchools.com</p>
+                                    <a href="mailto: Isaias.Dominguez@ImagineSchools.org">Isaias.Dominguez@ImagineSchools.org</a>
                                 </div>
-                            </div> 
+                            </div>  -->
+                            {% for people in site.data.contact %}
+                                <div class="col-sm-4 col-md-3">
+                                        <div class="contact">
+                                            <i class="fa fa-envelope"></i>
+                                            <h3>Email</h3>
+                                            <p>{{ people.firstName}}  {{people.lastName}}</p>
+                                            <a href="mailto: {{people.emailAddress}}">{{people.emailAddress}}</a>
+                                        </div>
+                                </div> 
+                            {% endfor%}
                             <!-- /contact -->
             
                             <!-- contact -->
-                            <div class="col-sm-4">
+                            <div class="col-sm-4 col-md-3">
                                 <div class="contact">
                                     <i class="fa fa-map-marker"></i>
                                     <h3>Address</h3>
-                                    <p>50930 Calhoun St, Coachella, CA 92236</p>
+                                    <a target="_blank" rel="noopener" href="https://www.google.com/maps/dir/33.6997813,-116.2127306/50930+Calhoun+St,+Coachella,+CA+92236">50930 Calhoun St, Coachella, CA 92236</a>
                                 </div>
                             </div>
                             <!-- /contact -->

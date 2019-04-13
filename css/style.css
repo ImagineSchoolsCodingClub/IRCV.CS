@@ -1437,6 +1437,7 @@ header {
 .contact {
     margin: 15px 0px;
     text-align: center;
+    font-size: 15px;
 }
 
 .contact i {
@@ -1507,6 +1508,7 @@ header {
     font-size: 14px;
     text-transform: uppercase;
     margin: 0;
+    color:#FFF;
 }
 
 
@@ -1769,4 +1771,13 @@ header {
 
 .team-social a{
     font-size: 2.5rem;
+}
+
+.contact p a {
+    color: #df0038;
+    text-transform: uppercase
+
+}
+.footer-copyright p a {
+    color: #fcf700;
 }

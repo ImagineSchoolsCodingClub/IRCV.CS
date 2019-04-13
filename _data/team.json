@@ -2,12 +2,9 @@
     {
       "firstName": "Kathy",
       "lastName": "Carrera",
-      "socialMedias":[
-        {
-          "platform": "Scratch",
-          "class": "laptop-code",
-          "link": "https://scratch.mit.edu/"
-        }
+      "projects":[
+         "https://scratch.mit.edu/",
+          "https://scratch.mit.edu/"
       ],
       "imagePath": "./img/team/KathyC.JPG",
       "title": "Scratch Developer"
@@ -15,12 +12,8 @@
     {
         "firstName": "Iory",
         "lastName": "Libatique",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/IoryL.JPG",
         "title": "Scratch Developer"
@@ -28,12 +21,8 @@
       {
         "firstName": "Anele",
         "lastName": "Leal",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/AneleL.JPG",
         "title": "Scratch Developer"
@@ -41,12 +30,8 @@
       {
         "firstName": "Oliver",
         "lastName": "Martinez",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+            "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/OliverM.JPG",
         "title": "Scratch Developer"
@@ -54,12 +39,8 @@
       {
         "firstName": "Isaac",
         "lastName": "Gutierrez",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+            "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/IsaacG.JPG",
         "title": "Scratch Developer"
@@ -67,12 +48,8 @@
       {
         "firstName": "Kayla",
         "lastName": "Castillo",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+            "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/KaylaC.JPG",
         "title": "Scratch Developer"
@@ -80,12 +57,8 @@
       {
         "firstName": "Vanessa",
         "lastName": "Flores",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/VanessaF.JPG",
         "title": "Scratch Developer"
@@ -93,12 +66,8 @@
       {
         "firstName": "Kaelyn",
         "lastName": "Bojorquez",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/KaelynB.JPG",
         "title": "Scratch Developer"
@@ -106,12 +75,8 @@
       {
         "firstName": "Mia",
         "lastName": "Rendone",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/MiaR.JPG",
         "title": "Scratch Developer"
@@ -119,12 +84,8 @@
       {
         "firstName": "Natalia",
         "lastName": "Garcia",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/NataliaG.JPG",
         "title": "Scratch Developer"
@@ -132,12 +93,8 @@
       {
         "firstName": "Isabella",
         "lastName": "Gudino",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/IsabellaG.JPG",
         "title": "Scratch Developer"
@@ -145,12 +102,8 @@
       {
         "firstName": "Salvador",
         "lastName": "Guerrero",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/SalvadorG.JPG",
         "title": "Scratch Developer"
@@ -158,12 +111,8 @@
       {
         "firstName": "Carlos",
         "lastName": "Moya",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/CarlosM.JPG",
         "title": "Scratch Developer"
@@ -171,12 +120,8 @@
       {
         "firstName": "Javonte",
         "lastName": "Gutierrez",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/JavonteG.JPG",
         "title": "Scratch Developer"
@@ -184,12 +129,8 @@
       {
         "firstName": "Juan",
         "lastName": "Zaragoza",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/JuanZ.JPG",
         "title": "Scratch Developer"
@@ -197,12 +138,8 @@
       {
         "firstName": "Dominik",
         "lastName": "Ortega",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/DominikO.JPG",
         "title": "Scratch Developer"
@@ -210,12 +147,9 @@
       {
         "firstName": "DeAngelo",
         "lastName": "Castillo",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
+          
         ],
         "imagePath": "./img/team/DeAngeloC.JPG",
         "title": "Scratch Developer"
@@ -223,12 +157,8 @@
       {
         "firstName": "Javier",
         "lastName": "Martinez",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/JavierM.JPG",
         "title": "Scratch Developer"
@@ -236,12 +166,8 @@
       {
         "firstName": "Adam",
         "lastName": "Aguirre",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/AdamA.JPG",
         "title": "Scratch Developer"
@@ -249,12 +175,8 @@
       {
         "firstName": "Fernanda",
         "lastName": "Penuelas",
-        "socialMedias":[
-          {
-            "platform": "Scratch",
-            "class": "laptop-code",
-            "link": "https://scratch.mit.edu/"
-          }
+        "projects":[
+          "https://scratch.mit.edu/"
         ],
         "imagePath": "./img/team/FernandaP.JPG",
         "title": "Scratch Developer"

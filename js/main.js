@@ -7,13 +7,6 @@
 	},100);
 
 	///////////////////////////
-	// Preloader
-	// $(window).on('load', function() {
-	// 	console.log("LOAD");
-	// 	$("#preloader").delay(600).fadeOut();
-	// });
-
-	///////////////////////////
 	// Scrollspy
 	$('body').scrollspy({
 		target: '#nav',

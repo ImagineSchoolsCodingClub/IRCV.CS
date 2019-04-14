@@ -18,7 +18,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 #theme: minima
-exclude: [Gemfile, Gemfile.lock, node_modules, gulpfile.js, dist, production]
+exclude: [README.md, gemfile, gemfile.lock, node_modules, gulpfile.js, dist, production, package.json, package-lock.json]
 #include: [_pages]
 permalink: none
 destination: _dist

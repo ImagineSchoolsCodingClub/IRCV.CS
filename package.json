@@ -1,8 +1,7 @@
 {
-  "name": "y",
+  "name": "ircv",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "jekyll serve",
     "build": "jekyll build"
@@ -11,13 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ImagineSchoolsCodingClub/IRCV.CS.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ImagineSchoolsCodingClub/IRCV.CS/issues"
   },
-  "homepage": "https://github.com/ImagineSchoolsCodingClub/IRCV.CS#readme",
-  "devDependencies": {
-    "http-server": "^0.11.1"
-  }
+  "homepage": "https://scorpion-coders.netlify.com"
 }

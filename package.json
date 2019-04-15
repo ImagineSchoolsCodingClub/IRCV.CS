@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "jekyll serve",
+    "start": "bundke exec jekyll serve",
     "build": "jekyll build"
   },
   "repository": {

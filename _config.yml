@@ -1,6 +1,6 @@
 baseurl: ""
 url: "" 
 markdown: kramdown
-exclude: [README.md, gemfile.lock, dist, package.json, package-lock.json]
+exclude: [README.md, gemfile, gemfile.lock, dist, package.json, package-lock.json]
 permalink: none
 destination: _dist

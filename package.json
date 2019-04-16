@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/ImagineSchoolsCodingClub/IRCV.CS/issues"
   },
-  "homepage": "https://scorpion-coders.netlify.com"
+  "homepage": "https://scorpion-coders.netlify.com",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

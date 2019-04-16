@@ -14,7 +14,7 @@
     "url": "https://github.com/ImagineSchoolsCodingClub/IRCV.CS/issues"
   },
   "homepage": "https://scorpion-coders.netlify.com",
-  "main": "index.js",
+  "main": "main.js",
   "author": "",
   "license": "ISC"
 }

@@ -4,7 +4,6 @@
   "description": "",
   "scripts": {
     "start": "jekyll serve",
-    "install": "bundle install",
     "build": "jekyll build"
   },
   "repository": {

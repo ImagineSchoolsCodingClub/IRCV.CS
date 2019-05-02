@@ -1090,13 +1090,14 @@ header {
 }
 
 .team .team-social {
-    /* position: absolute;
-    top: 0;
-    right: 0; */
-    position: relative;
-    left: 100%;
+    position: absolute;
     top: 0;
     right: 0;
+
+    /* position: relative;
+    left: 100%;
+    top: 0;
+    right: 0; */
     opacity: 0;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;

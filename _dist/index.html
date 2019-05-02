@@ -234,7 +234,7 @@
                                 <div class="overlay">
                                         
                                         <div class="team-social">
-                                            <a target="_blank" rel="noopener" href="https://scratch.mit.edu/"><i class="fas fa-laptop-code"></i></a>
+                                            <a target="_blank" rel="noopener" href="https://scratch.mit.edu/projects/258185134/"><i class="fas fa-laptop-code"></i></a>
                                         </div>
                                         
                                 </div>
@@ -716,7 +716,7 @@
 
 	
             <!-- portfolio -->
-            <div id="portfolio" class="portfolio" class="section md-padding bg-grey">
+            <div id="portfolio" class="portfolio section wow fadeInUp md-padding bg-grey">
               <div class ="container">
                 <div class="row">
             <!-- Section header -->
@@ -724,7 +724,7 @@
               <h2 class="title">Featured Photos</h2>
           </div>
           <!-- /Section header -->
-            <div class="section-header text-center">
+            <div id="myBtnContainer" class="section-header text-center">
               <button class="btn active" onclick="filterSelection('all')"> Show all</button>
               <button class="btn" onclick="filterSelection('classwork')"> Classwork</button>
               <button class="btn" onclick="filterSelection('projects')"> Projects</button>
@@ -732,9 +732,11 @@
             </div>
             
             <!-- Portfolio Gallery Grid -->
+            <div class="row">
             
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class1.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -746,10 +748,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class2.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -761,10 +765,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class3.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -776,10 +782,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class4.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -791,10 +799,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class5.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -806,10 +816,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class6.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -821,10 +833,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class7.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -836,10 +850,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class8.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -851,10 +867,12 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             
-              <div class="column classwork col-md-4 col-xs-6 work">
+              <div class="column classwork">
+                <div class="content">
                   <img class="img-responsive" src="./img/Classwork/class9.jpg" alt="">
                   <div class="overlay"></div>
                 <div class="work-content">
@@ -866,13 +884,92 @@
                     </div>
               </div>
               </div>
+              </div>
               
               
             <!-- END GRID -->
             </div>
             </div>
             </div>
+            </div>
             <!-- portfolio -->
+
+            <div id="myBtnContainer">
+                <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+                <button class="btn" onclick="filterSelection('nature')"> Nature</button>
+                <button class="btn" onclick="filterSelection('cars')"> Cars</button>
+                <button class="btn" onclick="filterSelection('people')"> People</button>
+              </div>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column nature">
+    <div class="content portfolio">
+      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <h4>Mountains</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+      <h4>Lights</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+      <h4>Forest</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+
+  <div class="column cars">
+    <div class="content">
+      <img src="/w3images/cars1.jpg" alt="Car" style="width:100%">
+      <h4>Retro</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="/w3images/cars2.jpg" alt="Car" style="width:100%">
+      <h4>Fast</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="/w3images/cars3.jpg" alt="Car" style="width:100%">
+      <h4>Classic</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+
+  <div class="column people">
+    <div class="content">
+      <img src="/w3images/people1.jpg" alt="People" style="width:100%">
+      <h4>Girl</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="/w3images/people2.jpg" alt="People" style="width:100%">
+      <h4>Man</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="/w3images/people3.jpg" alt="People" style="width:100%">
+      <h4>Woman</h4>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+<!-- END GRID -->
+</div>
 
 </div>
 <!-- /Portfolio -->

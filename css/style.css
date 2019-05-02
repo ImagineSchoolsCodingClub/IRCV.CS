@@ -1781,27 +1781,6 @@ header {
 .footer-copyright p a {
     color: #fcf700;
 }
-
-.portfolio {
-    box-sizing: border-box;
-  }
-  
-  .portfolio body {
-    background-color: #f1f1f1;
-    padding: 20px;
-    font-family: Arial;
-  }
-  
-  /* Center website */
-  .portfolio .main {
-    max-width: 1000px;
-    margin: auto;
-  }
-  
-  .portfolio h1 {
-    font-size: 50px;
-    word-break: break-all;
-  }
   
   .portfolio .row {
     margin: 8px -16px;
@@ -1809,7 +1788,7 @@ header {
   
   /* Add padding BETWEEN each column (if you want) */
   .portfolio .row,
-  .row > .column {
+  .portfolio .row > .column {
     padding: 8px;
   }
   

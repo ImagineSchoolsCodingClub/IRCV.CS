@@ -108,15 +108,6 @@
         "title": "Scratch Developer"
       },
       {
-        "firstName": "Carlos",
-        "lastName": "Moya",
-        "projects":[
-          "https://scratch.mit.edu/"
-        ],
-        "imagePath": "./img/team/CarlosM.JPG",
-        "title": "Scratch Developer"
-      },
-      {
         "firstName": "Javonte",
         "lastName": "Gutierrez",
         "projects":[
@@ -138,7 +129,7 @@
         "firstName": "Dominik",
         "lastName": "Ortega",
         "projects":[
-          "https://scratch.mit.edu/"
+          "https://scratch.mit.edu/search/projects?q=tacoortega"
         ],
         "imagePath": "./img/team/DominikO.JPG",
         "title": "Scratch Developer"

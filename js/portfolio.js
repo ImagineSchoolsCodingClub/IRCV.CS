@@ -24,6 +24,7 @@ function w3AddClass(element, name) {
 
 // Hide elements that are not selected
 function w3RemoveClass(element, name) {
+  console.log("w3Remove");
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
   arr2 = name.split(" ");
@@ -41,9 +42,9 @@ var btns = btnContainer.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function(){
     var current = document.getElementsByClassName("active");
-    console.log(current[0]);
-    current[0].className = current[0].className.replace(" active", "");
+    console.log(current, "current");
+    current[1].className = current[1].className.replace(" active", "");
+
     this.className += " active";
-    console.log(current[0]);
   });
 }

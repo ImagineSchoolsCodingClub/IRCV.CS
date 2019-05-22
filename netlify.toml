@@ -1,0 +1,5 @@
+[settings]
+id = "IRCV.CS"
+[build]
+command = "npm run build"
+publish = "_dist"

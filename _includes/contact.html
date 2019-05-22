@@ -1,62 +1,64 @@
+<!-- Contact -->
+<div id="contact" class="section md-padding">
+    <!-- Container -->
+    <div class="container">
+        <!-- Row -->
+        <div class="row">
+            <!-- Section-header -->
+            <div class="section-header text-center">
+                <h2 class="title">Get in touch</h2>
+            </div>
+            <!-- /Section-header -->
 
-    
-    <!-- Contact -->
-	<div id="contact" class="section md-padding">
-            
-                    <!-- Container -->
-                    <div class="container">
-            
-                        <!-- Row -->
-                        <div class="row">
-            
-                            <!-- Section-header -->
-                            <div class="section-header text-center">
-                                <h2 class="title">Get in touch</h2>
-                            </div>
-                            <!-- /Section-header -->
-            
-                            <!-- contact -->
-                            <div class="col-sm-4 col-md-3">
-                                <div class="contact">
-                                    <i class="fa fa-phone"></i>
-                                    <h3>Phone</h3>
-                                    <a href="tel:+17603919200">760-391-9200</a>
-                                </div>
-                            </div>
-                            <!-- /contact -->
-            
-                            <!-- contact -->
-                            <!-- <div class="col-sm-4">
+            <!-- contact -->
+            <div class="col-sm-4 col-md-3">
+                <div class="contact">
+                    <i class="fa fa-phone"></i>
+                    <h3>Phone</h3>
+                    <a href="tel:+17603919200">760-391-9200</a>
+                </div>
+            </div>
+            <!-- /contact -->
+
+            <!-- contact -->
+            <!-- <div class="col-sm-4">
                                 <div class="contact">
                                     <i class="fa fa-envelope"></i>
                                     <h3>Email</h3>
                                     <a href="mailto: Isaias.Dominguez@ImagineSchools.org">Isaias.Dominguez@ImagineSchools.org</a>
                                 </div>
                             </div>  -->
-                            {% for people in site.data.contact %}
-                                <div class="col-sm-4 col-md-3">
-                                        <div class="contact">
-                                            <i class="fa fa-envelope"></i>
-                                            <h3>Email</h3>
-                                            <p>{{ people.firstName}}  {{people.lastName}}</p>
-                                            <a href="mailto: {{people.emailAddress}}">{{people.emailAddress}}</a>
-                                        </div>
-                                </div> 
-                            {% endfor%}
-                            <!-- /contact -->
-            
-                            <!-- contact -->
-                            <div class="col-sm-4 col-md-3">
-                                <div class="contact">
-                                    <i class="fa fa-map-marker"></i>
-                                    <h3>Address</h3>
-                                    <a target="_blank" rel="noopener" href="https://www.google.com/maps/dir/33.6997813,-116.2127306/50930+Calhoun+St,+Coachella,+CA+92236">50930 Calhoun St, Coachella, CA 92236</a>
-                                </div>
-                            </div>
-                            <!-- /contact -->
-            
-                            <!-- contact form -->
-                            <!--<div class="col-md-8 col-md-offset-2">
+            {% for people in site.data.contact %}
+            <div class="col-sm-4 col-md-3">
+                <div class="contact">
+                    <i class="fa fa-envelope"></i>
+                    <h3>Email</h3>
+                    <p>{{ people.firstName }} {{ people.lastName }}</p>
+                    <a href="mailto: {{ people.emailAddress }}">{{
+                        people.emailAddress
+                    }}</a>
+                </div>
+            </div>
+            {% endfor%}
+            <!-- /contact -->
+
+            <!-- contact -->
+            <div class="col-sm-4 col-md-3">
+                <div class="contact">
+                    <i class="fa fa-map-marker"></i>
+                    <h3>Address</h3>
+                    <a
+                        target="_blank"
+                        rel="noopener"
+                        href="https://www.google.com/maps/dir/33.6997813,-116.2127306/50930+Calhoun+St,+Coachella,+CA+92236"
+                        >50930 Calhoun St, Coachella, CA 92236</a
+                    >
+                </div>
+            </div>
+            <!-- /contact -->
+
+            <!-- contact form -->
+            <!--<div class="col-md-8 col-md-offset-2">
                                 <form class="contact-form">
                                     <input type="text" class="input" placeholder="Name">
                                     <input type="email" class="input" placeholder="Email">
@@ -65,13 +67,10 @@
                                     <button class="main-btn">Send message</button>
                                 </form>
                             </div>-->
-                            <!-- /contact form -->
-            
-                        </div>
-                        <!-- /Row -->
-            
-                    </div>
-                    <!-- /Container -->
-            
-                </div>
-                <!-- /Contact -->
+            <!-- /contact form -->
+        </div>
+        <!-- /Row -->
+    </div>
+    <!-- /Container -->
+</div>
+<!-- /Contact -->

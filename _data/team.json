@@ -1,175 +1,137 @@
 [
     {
-      "firstName": "Kathy",
-      "lastName": "Carrera",
-      "projects":[
-        "https://scratch.mit.edu/search/projects?q=datgirl360"
-      ],
-      "imagePath": "./img/Team/KathyC.JPG",
-      "title": "Scratch Developer"
+        "firstName": "Kathy",
+        "lastName": "Carrera",
+        "projects": ["https://scratch.mit.edu/users/datgirl360/projects/"],
+        "imagePath": "./img/Team/KathyC.JPG",
+        "title": "Scratch Developer"
     },
     {
         "firstName": "Iory",
         "lastName": "Libatique",
-        "projects":[
-          "Https://scratch.mit.edu/search/projects?q=EndyEnderman11"
-        ],
+        "projects": ["https://scratch.mit.edu/users/EndyEnderman11/projects/"],
         "imagePath": "./img/Team/IoryL.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Anele",
         "lastName": "Leal",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=Anele1234"
-        ],
+        "projects": ["https://scratch.mit.edu/users/Anele1234/projects/"],
         "imagePath": "./img/Team/AneleL.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Oliver",
         "lastName": "Martinez",
-        "projects":[
-            "https://scratch.mit.edu/search/projects?q=THE32"
-        ],
+        "projects": ["https://scratch.mit.edu/users/THE32/projects/"],
         "imagePath": "./img/Team/OliverM.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Isaac",
         "lastName": "Gutierrez",
-        "projects":[
-            "https://scratch.mit.edu/search/projects?q=goldenisaac"
-        ],
+        "projects": ["https://scratch.mit.edu/users/goldenisaac/projects/"],
         "imagePath": "./img/Team/IsaacG.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Kayla",
         "lastName": "Castillo",
-        "projects":[
-            "https://scratch.mit.edu/search/projects?q=deku156k"
-        ],
+        "projects": ["https://scratch.mit.edu/users/deku156k/projects/"],
         "imagePath": "./img/Team/KaylaC.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Vanessa",
         "lastName": "Flores",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=cakepopcookie"
-        ],
+        "projects": ["https://scratch.mit.edu/users/cakepopcookie/projects/"],
         "imagePath": "./img/Team/VanessaF.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Kaelyn",
         "lastName": "Bojorquez",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=Xxk-popxX"
-        ],
+        "projects": ["https://scratch.mit.edu/users/Xxk-popxX/projects/"],
         "imagePath": "./img/Team/KaelynB.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Mia",
         "lastName": "Rendone",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=mikeydonny2 "
-        ],
+        "projects": ["https://scratch.mit.edu/users/mikeydonny2/projects/"],
         "imagePath": "./img/Team/MiaR.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Natalia",
         "lastName": "Garcia",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=NachosG"
-        ],
+        "projects": ["https://scratch.mit.edu/users/NachosG/projects/"],
         "imagePath": "./img/Team/NataliaG.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Isabella",
         "lastName": "Gudino",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=IceCreamG"
-        ],
+        "projects": ["https://scratch.mit.edu/users/IceCreamG/projects/"],
         "imagePath": "./img/Team/IsabellaG.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Salvador",
         "lastName": "Guerrero",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=Sallymcsallysal "
-        ],
+        "projects": ["https://scratch.mit.edu/users/Sallymcsallysal/projects/"],
         "imagePath": "./img/Team/SalvadorG.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Javonte",
         "lastName": "Gutierrez",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=Javonte24"
-        ],
+        "projects": ["https://scratch.mit.edu/users/Javonte24/projects/"],
         "imagePath": "./img/Team/JavonteG.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Juan",
         "lastName": "Zaragoza",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=melgostudentjp"
-        ],
+        "projects": ["https://scratch.mit.edu/users/melgostudentjp/projects/"],
         "imagePath": "./img/Team/JuanZ.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Dominik",
         "lastName": "Ortega",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=tacoortega"
-        ],
+        "projects": ["https://scratch.mit.edu/users/tacoortega/projects/"],
         "imagePath": "./img/Team/DominikO.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "DeAngelo",
         "lastName": "Castillo",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=tacocastle"
-          
-        ],
+        "projects": ["https://scratch.mit.edu/users/tacocastle/projects/"],
         "imagePath": "./img/Team/DeAngeloC.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Javier",
         "lastName": "Martinez",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=TacoheadParadise"
+        "projects": [
+            "https://scratch.mit.edu/users/TacoheadParadise/projects/"
         ],
         "imagePath": "./img/Team/JavierM.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Adam",
         "lastName": "Aguirre",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=aaguirre1234"
-        ],
+        "projects": ["https://scratch.mit.edu/users/aaguirre1234/projects/"],
         "imagePath": "./img/Team/AdamA.JPG",
         "title": "Scratch Developer"
-      },
-      {
+    },
+    {
         "firstName": "Fernanda",
         "lastName": "Penuelas",
-        "projects":[
-          "https://scratch.mit.edu/search/projects?q=ferdy1234"
-        ],
+        "projects": ["https://scratch.mit.edu/users/ferdy1234/projects/"],
         "imagePath": "./img/Team/FernandaP.JPG",
         "title": "Scratch Developer"
-      }
-  ]
-  
+    }
+]

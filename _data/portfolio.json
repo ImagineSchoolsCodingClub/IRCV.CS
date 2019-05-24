@@ -94,5 +94,29 @@
         "imagePath": "./img/Projects/Vanessa-Chase.PNG",
         "description": "Scratch Project",
         "link": "https://scratch.mit.edu/projects/308370429/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Iory-Final.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/310034390/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Mia-Final.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/311735611/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Natalia-Finall.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/311735863/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Javier-Final.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/312040090/"
     }
 ]

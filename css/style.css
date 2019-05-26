@@ -1790,7 +1790,7 @@ header {
   /* Add padding BETWEEN each column (if you want) */
    .row,
    .row > .column {
-    padding: 8px;
+    padding: 5px;
   }
   
   /* Create three equal columns that floats next to each other */

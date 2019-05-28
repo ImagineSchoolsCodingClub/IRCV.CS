@@ -1064,7 +1064,6 @@ header {
 
 .team:hover:after {
     height: 100%;
-    cursor: pointer;
 }
 
 .team-img {

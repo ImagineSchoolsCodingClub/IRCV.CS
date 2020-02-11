@@ -1,12 +1,6 @@
 [
     {
         "category": "Classwork",
-        "imagePath": "./img/Classwork/class1.jpg",
-        "description": "Working on Code.org",
-        "link": ""
-    },
-    {
-        "category": "Classwork",
         "imagePath": "./img/Classwork/class2.jpg",
         "description": "Working on Code.org",
         "link": ""
@@ -54,10 +48,82 @@
         "link": ""
     },
     {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class10.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class11.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class12.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class13.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class14.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class15.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
+        "category": "Classwork",
+        "imagePath": "./img/Classwork/class16.jpg",
+        "description": "Working on Scratch",
+        "link": ""
+    },
+    {
         "category": "Projects",
-        "imagePath": "./img/Projects/Kathy-Chase.PNG",
+        "imagePath": "./img/Projects/Iory-2.PNG",
         "description": "Scratch Project",
-        "link": "https://scratch.mit.edu/projects/308013322/"
+        "link": "https://scratch.mit.edu/projects/360278213/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Mia-FinalStory.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/363280318/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Audrey-FinalStory.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/363279143/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Alexy-FinalStory.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/363277272/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Javier-FinalStory.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/357705925/"
+    },
+    {
+        "category": "Projects",
+        "imagePath": "./img/Projects/Juan-FinalStory.PNG",
+        "description": "Scratch Project",
+        "link": "https://scratch.mit.edu/projects/357708446/"
     },
     {
         "category": "Projects",
@@ -94,12 +160,6 @@
         "imagePath": "./img/Projects/Vanessa-Chase.PNG",
         "description": "Scratch Project",
         "link": "https://scratch.mit.edu/projects/308370429/"
-    },
-    {
-        "category": "Projects",
-        "imagePath": "./img/Projects/Iory-Final.PNG",
-        "description": "Scratch Project",
-        "link": "https://scratch.mit.edu/projects/310034390/"
     },
     {
         "category": "Projects",
